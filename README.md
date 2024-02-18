@@ -1,6 +1,6 @@
 # AirViz-Insight-for-NY-Airbnb
 
-🗺️ Objective: Empower clients with strategic recommendations on optimal regions, pricing strategies, and accommodation types for successful Airbnb listings, driven by data-backed insights.
+Objective: Empower clients with strategic recommendations on optimal regions, pricing strategies, and accommodation types for successful Airbnb listings, driven by data-backed insights.
 
 Data Cleaning and Transformation:
 Utilized Python and pandas to clean and transform the Airbnb NYC rental dataset, handling missing values and outliers, ensuring data integrity for analysis.
